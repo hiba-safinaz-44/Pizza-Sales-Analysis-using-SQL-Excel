@@ -1,0 +1,38 @@
+# 🍕 Pizza Sales Analysis | SQL & Excel Dashboard
+
+## 📌 Project Overview
+This project analyzes pizza sales data to uncover key business insights using **SQL queries** and an **interactive Excel dashboard**.
+
+## 🛠 Tools & Technologies
+- SQL (Data extraction & analysis)
+- Microsoft Excel (Dashboard & visualization)
+- Charts: Bar, Pie, Donut, Line, Funnel
+- Slicers for interactivity
+
+## 📊 Key KPIs
+- Total Orders
+- Total Sales
+- Average Sales
+- Average Orders per Day
+
+## 📈 Analysis Performed
+- Daily sales trend
+- Hourly order trend
+- Best and worst performing pizzas
+- Category-wise and size-wise performance
+
+## 📂 Files Included
+- `SQL_Queries.sql` – All SQL queries used for analysis  
+- `Pizza_Sales_Dashboard.xlsx` – Interactive Excel dashboard  
+- `Dataset/` – Raw sales data  
+- `Screenshots/` – Dashboard preview images  
+
+## 🔍 Insights
+- Identified peak order hours and high-demand days
+- Found top-selling and least-selling pizza items
+- Helped understand customer ordering behavior
+
+## 📎 Author
+**Hiba Safinaz**  
+Aspiring Data Analyst | SQL | Excel | Power BI
+
