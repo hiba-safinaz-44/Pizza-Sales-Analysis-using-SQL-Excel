@@ -23,7 +23,7 @@ This project analyzes pizza sales data to uncover key business insights using **
 
 ## 📂 Files Included
 - `Pizza_Sale_Analysis-SQL_Queries.docx` – All SQL queries used for analysis  
-- `Pizza_Sales_Dashboard.xlsx` – Interactive Excel dashboard  
+- `Pizza_Dashboard.xlsx` – Interactive Excel dashboard  
 - `Dataset/` – Raw sales data  
 - `Screenshots/` – Dashboard preview images  
 
