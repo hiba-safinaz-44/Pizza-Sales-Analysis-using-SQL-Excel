@@ -53,6 +53,10 @@ This project analyzes pizza sales data to uncover key business insights using **
 - Found top-selling and least-selling pizza items
 - Helped understand customer ordering behavior
 
+
+## 📸 Dashboard Preview
+![Dashboard Screenshot]("C:\Users\hibas\Desktop\Self_Learning\Project_5_Pizza_Sale_Analysis_using_SQL&Excel\Pizza_Sale_Analysis_Dashboard.png")
+
 ## 📎 Author
 **Hiba Safinaz**  
 Aspiring Data Analyst | SQL | Excel | Power BI
