@@ -1,8 +1,11 @@
 # 🍕 Pizza Sales Analysis | SQL & Excel Dashboard
 
-![SQL](https://img.shields.io/badge/Tool-Power%20BI-yellow?logo=powerbi&logoColor=black)
-![Excel](https://img.shields.io/badge/SQL-Data%20Analysis-blue?logo=mysql)
-![Status](https://img.shields.io/badge/Project-Completed-brightgreen)
+![SQL](https://img.shields.io/badge/SQL-Data%20Analysis-blue?logo=mysql)
+![Excel](https://img.shields.io/badge/Excel-Dashboard-green?logo=microsoft-excel)
+![KPIs](https://img.shields.io/badge/KPIs-Business%20Metrics-orange)
+![Data Analysis](https://img.shields.io/badge/Data-Analysis-lightgrey)
+![Visualization](https://img.shields.io/badge/Data-Visualization-yellow)
+![Interactive Dashboard](https://img.shields.io/badge/Interactive-Dashboard-success)
 
 
 ## 📌 Project Overview
@@ -13,6 +16,14 @@ This project analyzes pizza sales data to uncover key business insights using **
 - Microsoft Excel (Dashboard & visualization)
 - Charts: Bar, Pie, Donut, Line, Funnel
 - Slicers for interactivity
+
+  
+![Bar Chart](https://img.shields.io/badge/Bar%20Chart-Used-blue)
+![Line Chart](https://img.shields.io/badge/Line%20Chart-Used-green)
+![Pie Chart](https://img.shields.io/badge/Pie%20%26%20Donut-Used-orange)
+![Funnel Chart](https://img.shields.io/badge/Funnel%20Chart-Used-lightgrey)
+![Slicers](https://img.shields.io/badge/Slicers-Enabled-success)
+
 
 ## 📊 Key KPIs
 - Total Orders
@@ -25,6 +36,11 @@ This project analyzes pizza sales data to uncover key business insights using **
 - Hourly order trend
 - Best and worst performing pizzas
 - Category-wise and size-wise performance
+
+  ![Sales Analysis](https://img.shields.io/badge/Sales-Analysis-blueviolet)
+![Trend Analysis](https://img.shields.io/badge/Trend-Analysis-yellowgreen)
+![Business Insights](https://img.shields.io/badge/Business-Insights-important)
+
 
 ## 📂 Files Included
 - `Pizza_Sale_Analysis-SQL_Queries.docx` – All SQL queries used for analysis  
