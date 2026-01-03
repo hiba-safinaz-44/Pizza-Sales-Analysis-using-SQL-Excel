@@ -1,5 +1,10 @@
 # 🍕 Pizza Sales Analysis | SQL & Excel Dashboard
 
+![SQL](https://img.shields.io/badge/Tool-Power%20BI-yellow?logo=powerbi&logoColor=black)
+![Excel](https://img.shields.io/badge/SQL-Data%20Analysis-blue?logo=mysql)
+![Status](https://img.shields.io/badge/Project-Completed-brightgreen)
+
+
 ## 📌 Project Overview
 This project analyzes pizza sales data to uncover key business insights using **SQL queries** and an **interactive Excel dashboard**.
 
